@@ -1,7 +1,7 @@
-# Telangana Tourism Data Analysis (2016-2019)
+⭕ # Telangana Tourism Data Analysis (2016-2019)
 This project focuses on analyzing tourism data in Telangana, India, from the years 2016 to 2019. The data is split into two main categories: domestic visitors (within India) and foreign visitors (from outside India). Using these datasets, I have extracted insights about tourism trends, the impact on various districts, and provide recommendations for improving tourism strategies.
 
-## Project Overview ✅
+## Project Overview ✔️
 The project consists of two major tasks:
 
 ### Data Integration:✅
@@ -24,23 +24,23 @@ After merging the CSV files both the categories, two new files are generated:
 domestic_visitors.csv
 foreign_visitors.csv
 
-## Data Columns✅
+## Data Columns✔️
 
-### domestic_visitors.csv:
+### domestic_visitors.csv:✅
 district: Name of the district in Telangana.
 date: The starting date of the month when data was collected.
 month: The month for which the data is reported.
 year: The year (in YYYY format).
 visitors: The number of domestic visitors.
 
-### foreign_visitors.csv:
+### foreign_visitors.csv:✅
 district: Name of the district in Telangana.
 date: The starting date of the month when data was collected.
 month: The month for which the data is reported.
 year: The year (in YYYY format).
 visitors: The number of foreign visitors.
 
-## Solved Business Problems:
+## Solved Business Problems:✔️
 
 ### I addressed a series of business problems using data analysis techniques, which are present in detail in the research_questions_and_recommendations.pdf file. The questions focus on the following areas:
 
@@ -52,7 +52,7 @@ District-wise Comparison: Compare the popularity of districts among visitors.
 *Seasonality:* Identify seasonal trends in tourism for both domestic and foreign visitors.
 I utilized tools such as Python (Pandas, Matplotlib), SQL, and Power BI to extract these insights.
 
-## Tools Used
+## Tools Used✅
 Python (Pandas, Matplotlib): For data cleaning, merging, and visualization.
 SQL: For querying and analyzing data.
 Power BI: To create visual representations and dashboards.
@@ -60,5 +60,5 @@ Excel: Initial data exploration.
 
 # How to Use the Project
 
-### Clone the repository:
+### Clone the repository:✅
 git clone https://github.com/sourabhms66/Tourism_Revenue.git
