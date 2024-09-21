@@ -59,4 +59,4 @@ Excel: Initial data exploration.
 # How to Use the Project
 
 ### Clone the repository:
-git clone 
+git clone https://github.com/sourabhms66/Tourism_Revenue.git
