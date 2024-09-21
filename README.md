@@ -50,7 +50,7 @@ District-wise Comparison: Compare the popularity of districts among visitors.
 *CAGR Analysis:* Calculate the compounded annual growth rate (CAGR) for different districts.
 
 *Seasonality:* Identify seasonal trends in tourism for both domestic and foreign visitors.
-I utilized tools such as Python (Pandas, Matplotlib), SQL, and Power BI to derive these insights.
+I utilized tools such as Python (Pandas, Matplotlib), SQL, and Power BI to extract these insights.
 
 ## Tools Used
 Python (Pandas, Matplotlib): For data cleaning, merging, and visualization.
