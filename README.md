@@ -44,9 +44,11 @@ visitors: The number of foreign visitors.
 
 ### I addressed a series of business problems using data analysis techniques, which are present in detail in the research_questions_and_recommendations.pdf file. The questions focus on the following areas:
 
-*/ Visitor Growth:/* Analyze the growth trend of both domestic and foreign visitors across districts.
+*Visitor Growth:* Analyze the growth trend of both domestic and foreign visitors across districts.
 District-wise Comparison: Compare the popularity of districts among visitors.
-*/ CAGR Analysis:/* Calculate the compounded annual growth rate (CAGR) for different districts.
+
+*CAGR Analysis:* Calculate the compounded annual growth rate (CAGR) for different districts.
+
 *Seasonality:* Identify seasonal trends in tourism for both domestic and foreign visitors.
 I utilized tools such as Python (Pandas, Matplotlib), SQL, and Power BI to derive these insights.
 
