@@ -1,20 +1,20 @@
 # Telangana Tourism Data Analysis (2016-2019)
 This project focuses on analyzing tourism data in Telangana, India, from the years 2016 to 2019. The data is split into two main categories: domestic visitors (within India) and foreign visitors (from outside India). Using these datasets, I have extracted insights about tourism trends, the impact on various districts, and provide recommendations for improving tourism strategies.
 
-## Project Overview
+## Project Overview ✅
 The project consists of two major tasks:
 
-### Data Integration:
+### Data Integration:✅
 
 Merging individual CSV files from two categories: domestic and foreign visitors, into two comprehensive datasets (domestic_visitors.csv and foreign_visitors.csv).
 The data includes detailed records of visitors to various districts in Telangana for the years 2016 through 2019.
 
-### Business Problem Solving:
+### Business Problem Solving:✅
 
 Using the merged datasets, I have addressed key business problems related to tourism, which are outlined in the document research_questions_and_recommendations.pdf.
 These problems focus on identifying visitor patterns, growth trends, and providing recommendations based on the data.
 
-### Datasets:
+### Datasets:✅
 The datasets used in this project are in the repository:
 
 domestic_visitors: Contains CSV files for domestic visitor data (2016-2019).
@@ -24,7 +24,7 @@ After merging the CSV files both the categories, two new files are generated:
 domestic_visitors.csv
 foreign_visitors.csv
 
-## Data Columns
+## Data Columns✅
 
 ### domestic_visitors.csv:
 district: Name of the district in Telangana.
