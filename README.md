@@ -1,4 +1,4 @@
-⭕ # Telangana Tourism Data Analysis (2016-2019)
+# ⭕ Telangana Tourism Data Analysis (2016-2019)
 This project focuses on analyzing tourism data in Telangana, India, from the years 2016 to 2019. The data is split into two main categories: domestic visitors (within India) and foreign visitors (from outside India). Using these datasets, I have extracted insights about tourism trends, the impact on various districts, and provide recommendations for improving tourism strategies.
 
 ## Project Overview ✔️
@@ -58,7 +58,7 @@ SQL: For querying and analyzing data.
 Power BI: To create visual representations and dashboards.
 Excel: Initial data exploration.
 
-# How to Use the Project
+# ⭕ How to Use the Project
 
 ### Clone the repository:✅
 git clone https://github.com/sourabhms66/Tourism_Revenue.git
