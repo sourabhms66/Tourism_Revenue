@@ -55,4 +55,8 @@ Python (Pandas, Matplotlib): For data cleaning, merging, and visualization.
 SQL: For querying and analyzing data.
 Power BI: To create visual representations and dashboards.
 Excel: Initial data exploration.
-How to Use the Project
+
+# How to Use the Project
+
+### Clone the repository:
+git clone 
