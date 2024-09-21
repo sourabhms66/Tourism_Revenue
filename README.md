@@ -15,11 +15,11 @@ Using the merged datasets, I have addressed key business problems related to tou
 These problems focus on identifying visitor patterns, growth trends, and providing recommendations based on the data.
 
 ### Datasets:
-The datasets used in this project are stored in two folders:
+The datasets used in this project are in the repository:
 
 domestic_visitors: Contains CSV files for domestic visitor data (2016-2019).
 foreign_visitors: Contains CSV files for foreign visitor data (2016-2019).
-After merging the CSV files in both folders, two new files are generated:
+After merging the CSV files both the categories, two new files are generated:
 
 domestic_visitors.csv
 foreign_visitors.csv
